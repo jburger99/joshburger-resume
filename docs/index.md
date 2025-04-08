@@ -19,7 +19,7 @@ Dedicated bioinformatics specialist with strong expertise in computational biolo
 
 ## Technical Skills
 - **Programming Languages:** R, Python, SQL
-- **Bioinformatics Tools:** BLAST, Clustal$\Omega$, NextFlow, NCBI datasets, EMBOSS command line 
+- **Bioinformatics Tools:** BLAST, ClustalOmega, NextFlow, NCBI datasets, EMBOSS command line 
 - **Data Analysis:** Statistical analysis, genomic data processing, sequence alignment
 - **Laboratory Techniques:** Molecular biology methods, experimental evolution
 - **Software:** Excel, RStudio IDE, MySQL 
