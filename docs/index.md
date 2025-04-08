@@ -3,7 +3,7 @@ layout: cv
 title: Joshua Burger's Resume
 ---
 # Joshua Burger 
-Recent Biology Graduate from Brigham Young University-Idaho
+Bioinformatics Specialist | Molecular Biology Researcher
 
 <div id="web address">
 <a href="joshuatylerburger@gmail.com">joshuatylerburger@gmail.com</a>
